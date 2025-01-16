@@ -1,6 +1,6 @@
 # REPO DEL CURSO "REACT DESDE CERO" DE @MIDU.DEV
 
-## [REPO ORIGINAL DE MIDU.DEV:](https://github.com/midudev/aprendiendo-react)
+## [REPO ORIGINAL DE MIDU.DEV](https://github.com/midudev/aprendiendo-react)
 
 ## PROYECTOS
 
