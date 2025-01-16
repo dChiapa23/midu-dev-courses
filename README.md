@@ -11,3 +11,4 @@
 ### Curso de React desde cero: Crea un videojuego y una aplicación para aprender useState y useEffect
 
 - 01-tres-en-linea
+- 02-mouse-follower
