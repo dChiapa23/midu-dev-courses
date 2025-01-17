@@ -12,3 +12,7 @@
 
 - 01-tres-en-linea
 - 02-mouse-follower
+
+### ¡Resuelvo Prueba Técnica de React para Juniors y Trainee!
+
+- 03-prueba-tecnica-doble-fetching-datos
